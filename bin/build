@@ -1,0 +1,3 @@
+#!/bin/bash
+
+v -shared -o dist/mrb_dl.so app.v
